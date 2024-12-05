@@ -1,9 +1,1 @@
 /* 設置 iframe 的大小 */
-#search{
-    padding: 10px;
-    width: 250px;
-    margin-right: 10px;
-    border-radius: 5px;
-    border: 1px solid #007BFF;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-}
